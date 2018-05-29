@@ -1,0 +1,19 @@
+{
+  "name": "winston-logger-sample",
+  "version": "1.0.0",
+  "description": "This is a Sample to create a JS-Logger using Winston",
+  "main": "createLogs.js",
+  "dependencies": {
+    "shortid": "^2.2.8",
+    "winston": "^3.0.0-rc1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger",
+    "winston"
+  ],
+  "author": "therohitkhanna@live.com",
+  "license": "ISC"
+}
