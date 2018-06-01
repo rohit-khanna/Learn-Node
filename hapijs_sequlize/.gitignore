@@ -1,0 +1,7 @@
+node_modules/
+
+/src/Notification/Component/*.js
+
+package-lock.json
+
+files/*.*

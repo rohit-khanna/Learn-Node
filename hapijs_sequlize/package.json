@@ -1,0 +1,26 @@
+{
+  "name": "csr-service",
+  "version": "1.0.0",
+  "description": "this is the service backend for CSR mobile applications ",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "hapi": "^16.4.3",
+    "inert": "^4.2.1",
+    "joi": "^13.0.2",
+    "mysql2": "^1.4.2",
+    "nodemailer": "^4.4.1",
+    "path": "^0.12.7",
+    "sequelize": "^4.22.8",
+    "request": "^2.83.0",
+    "typescript": "^2.6.2",
+    "tedious": "^2.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node server.js"
+  },
+  "keywords": [],
+  "author": "Sopra Steria India Pvt Ltd",
+  "license": "ISC"
+}
