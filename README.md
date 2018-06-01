@@ -9,4 +9,4 @@ Samples for Node JS
 
 ## 3. qr-code-provider
  This has a sample for converting a text string into QRCode - png/Buffer/json.  
- ### Used: https://github.com/alexeyten/qr-image
+  Used: https://github.com/alexeyten/qr-image
