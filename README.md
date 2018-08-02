@@ -10,3 +10,6 @@ Samples for Node JS
 ## 3. qr-code-provider
  This has a sample for converting a text string into QRCode - png/Buffer/json.  
   Used: https://github.com/alexeyten/qr-image
+  
+## 4. JS-Generators
+This has some code samples to illustrate the concept of javascript Generators
